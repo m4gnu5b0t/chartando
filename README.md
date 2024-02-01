@@ -4,7 +4,9 @@ chartando is a desktop app developed using C++ that generates various types of c
 # compile and run
 open your "chartando" folder in the terminal and then execute the following commands:
   ● qmake
+  
   ● make
+  
   ● ./chartando
 
 # devenv
