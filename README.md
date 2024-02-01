@@ -1,5 +1,5 @@
-# chartando
-desktop app developed using C++ that generates various types of charts based on user-provided data.
+# what is chartando?
+chartando is a desktop app developed using C++ that generates various types of charts based on user-provided data.
 
 # compile and run
 open your "chartando" folder in the terminal and then execute the following commands:
